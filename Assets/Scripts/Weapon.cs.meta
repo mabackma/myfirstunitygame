@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: dca775c10ccbc11488323f0f0f3f9705
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shootPoint: {instanceID: 0}
+  - bulletImpact: {instanceID: 0}
+  - gunAudioSource: {instanceID: 0}
+  - gunShotAudio: {instanceID: 0}
+  - headShotAudio: {fileID: 8300000, guid: 0b1d87fa0d1825f4ab82623757055a7d, type: 3}
+  - fireModeAudio: {instanceID: 0}
+  - reloadAudio: {instanceID: 0}
+  - killAudio: {fileID: 8300000, guid: 7e5cfdd10eee3e44cb3fbf8c11445e9e, type: 3}
+  - killAudio2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
